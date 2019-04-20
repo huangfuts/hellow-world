@@ -1,2 +1,3 @@
 # hellow-world
-just for exercise program
+
+hi, are you OK? i'm fine!
